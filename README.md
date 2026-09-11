@@ -1,6 +1,7 @@
 <p align="center"><br>
 
-`$ git checkout --detach`
+<code>$ git checkout --detach</code><br>
+<code>HEAD is now at 7344 · detached</code>
 
 <br>
 
@@ -10,7 +11,7 @@
 
 <br>
 
-<sub><i>7,344 markdown files · zero javascript · don't ask how it runs</i></sub>
+<sub><i>7,344 markdown files · zero javascript · <a href="https://github.com/sup3dev/detached-head">don't ask how it runs</a></i></sub>
 
 <br><br>
 
